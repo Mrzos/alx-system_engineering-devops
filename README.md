@@ -1,1 +1,1 @@
-This repo contains basics of using shell
+This repo contains basics of using shell.
