@@ -1,1 +1,1 @@
-This derictory about  Shell, permissions
+This derictory about Shell, permissions
